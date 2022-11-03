@@ -1,5 +1,5 @@
 # Keeper-app
-Try it on [Keeper App] (https://0qmczx.csb.app/).
+Try it on [Keeper App](https://0qmczx.csb.app/).
 ## About
 This project is a Keeper app built using ReactJS. The app can be useful to keep a track of your day-to-day works to do. Notes can be created and deleted. The app is deployed on Netlify.
 - Take notes in keeperapp and all the notes are stored locally in the browser. 
